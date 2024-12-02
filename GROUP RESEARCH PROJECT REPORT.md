@@ -42,10 +42,15 @@ These findings highlight the need of sophisticated institutional initiatives for
 ... 
 
 ## Conclusion
-... 
+The project highlighted the diverse experiences of local and international students at IBS, demonstrating both strengths and places for growth. Key findings include equitable satisfaction across academic experiences and mental health resources, as well as discrepancies in satisfaction with university services and financial issues. While overseas students were more satisfied with support services, local students reported more financial challenges, highlighting the need for focused interventions to close these disparities. The discoveries have important real-world implications. This study emphasises the significance for educational institutions to adjust services to the individual needs of varied student populations. Offering flexible and well-communicated support to domestic students, as well as extending financial aid programs, can boost student satisfaction and retention.
+
+These insights provide opportunity for corporations and organisations collaborating with educational institutions to collaborate on projects such as scholarship programs, mental health cooperation, or career development services tailored to certain student populations. In a larger sense, this study emphasises the value of diversity in education and its impact on student achievement. Investing in responsive and equitable support systems can help institutions improve their reputation, attract a more diverse student body, and improve graduates' long-term success. The findings of this study provide a platform for designing data-driven policies that promote fairness and support a healthy academic environment for all children.
 
 ## Reflection
-... 
+Working as a group of four, we embraced Agile principles to effectively manage this project, emphasizing collaboration, adaptability, and iterative progress. From the start, we established a clear project roadmap, assigning tasks based on individual skills and ensuring that everyone had a say in planning. Regular check-ins, like Agile stand-up meetings, enabled us to coordinate progress, identify impediments, and adjust to changes in scope or timelines. One major result was our ability to iteratively improve the research. Following the initial data analysis, we revised our technique based on group comments, increasing the interpretation of results and clarity of conclusions.
+
+This iterative process ensured higher-quality products while leveraging the team's collective wisdom. Another accomplishment was the use of collaborative technologies to stay organised, which improved communication and documentation. However, difficulties occurred, such as balancing competing schedules and managing opposing perspectives about prioritisation. We addressed these issues by encouraging open communication and implementing Agile's emphasis on flexibility and continual development. Each team member contributed to solution development, ensuring that outcomes are shared. Overall, implementing Agile principles created a supportive environment, allowing us to effectively handle difficulties and produce a thorough project. This event underlined the need of teamwork and adaptation in team work.
+ 
 
 ## References
 ... 
