@@ -7,7 +7,8 @@
 4. Pari Sasani
 
 ## Declaration
-... 
+We hereby declare that the following essay is a result of a collaborative effort. everyone participated equally to the research, writing, and final touches. We affirm that the content is original and complies with the Academic Conduct Policy and the regulations of IBS concerning plagiarism and other forms of academic misconduct, and that we are aware of the possible consequences. We made sure to refer any unoriginal sources in the reference part of the paper.
+Alireza Ramazani - Aneri Shroff - Miracle Makobo - Pari Sasani
 
 ## Introduction
 Understanding the differences in views of available support services among local and international students is critical for creating an inclusive and supportive academic environment. This study will look into how students perceive the accessibility, effectiveness, and adequacy of services such as academic, financial, emotional, social integration, cultural adjustment, and future ambitions support. The research topic motivating this study is: How do local and international students perceive available support services differently? It is hypothesised that international learners find these services less accessible and effective than their local equivalents. Cultural unfamiliarity, linguistic challenges, and a lack of information about institutional resources are all expected to contribute to this gap. By comparing experiences across these critical aspects, this study hopes to offer light on the particular obstacles that international students confront.
